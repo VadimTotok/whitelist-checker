@@ -53,6 +53,7 @@ var normalSites = []string{
 	"example.org",
 	"ovh.com",
 	"spotify.com",
+	"tiktok.com",
 }
 
 var workers = 10
