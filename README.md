@@ -38,9 +38,10 @@
 2\. Запустите утилиту:
 
 ### Windows
-
+ВРЕМЕННО: запустите  wlc.exe из cmd или PowerShell, а не двойным кликом
 ```bash
-wlc.exe
+cd C:\path\to\program
+.\wlc.exe
 ```
 ### Linux
 ```bash
