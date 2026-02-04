@@ -216,4 +216,7 @@ func main() {
 	default:
 		fmt.Println("Результат неоднозначен.")
 	}
+
+	fmt.Println("\nНажмите Enter для выхода...")
+	fmt.Scanln()
 }
